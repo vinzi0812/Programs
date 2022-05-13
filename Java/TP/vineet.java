@@ -1,4 +1,4 @@
-class vineet
+public class vineet
 {
     public static void main(String args[])
     {
